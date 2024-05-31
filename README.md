@@ -9,28 +9,18 @@ I'm eager to contribute my skills and knowledge to the world of data science and
 
 **Let's connect!**
 
-* **Email:** [email address removed]
+* **Email:** syedaliahmed852728@gmail.com
 * **Phone:** 03125123168
 * **Location:** Islamabad, Pakistan
 
 **Skills & Expertise:**
 
 * **Technical Skills:**
-    * Remotely Working
-    * Regression
-    * Classification
-    * Clustering
-    * NLP
-    * ETL
-    * PCA
-    * Statistical Analysis
-    * A/B Testing
-    * Python
-    * R
-    * SQL
-    * NoSQL
-    * Docker
-    * Github
+    * Remotely Working     * Regression   * Classification
+    * Clustering           * NLP          * ETL
+    * PCA                  * A/B Testing  * Python
+    * R                    * SQL          * NoSQL
+    * Docker               * Github       * Statistical Analysis
 * **Soft Skills:**
     * Communication
     * Teamwork
