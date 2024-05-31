@@ -1,4 +1,4 @@
-## Syed Ali Syed - Data Scientist
+## Syed Ali Ahmed - Data Scientist
 ![syed-ali](https://github.com/oneAsad1/Online-Resume/assets/94337428/8a74ab1c-f92e-4479-a8ac-27070535664f)
 
 **Hi there!**
